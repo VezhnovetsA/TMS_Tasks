@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dom_zadanie_Vezhnovets", "Dom_zadanie_Vezhnovets.csproj", "{8C58CBF0-1792-4562-A27D-2D9E83D018C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulatorMagazina", "..\zadanie2\simulatorMagazina.csproj", "{171FE9A7-0927-418D-A559-400F977BE2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C58CBF0-1792-4562-A27D-2D9E83D018C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C58CBF0-1792-4562-A27D-2D9E83D018C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C58CBF0-1792-4562-A27D-2D9E83D018C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C58CBF0-1792-4562-A27D-2D9E83D018C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171FE9A7-0927-418D-A559-400F977BE2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171FE9A7-0927-418D-A559-400F977BE2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171FE9A7-0927-418D-A559-400F977BE2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171FE9A7-0927-418D-A559-400F977BE2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C445E8A-7A92-48AD-9CF9-4AF02FC6F0C5}
+	EndGlobalSection
+EndGlobal
