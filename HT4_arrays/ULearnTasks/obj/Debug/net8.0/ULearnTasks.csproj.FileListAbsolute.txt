@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\bin\Debug\net8.0\ULearnTasks.exe
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\bin\Debug\net8.0\ULearnTasks.deps.json
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\bin\Debug\net8.0\ULearnTasks.runtimeconfig.json
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\bin\Debug\net8.0\ULearnTasks.dll
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\bin\Debug\net8.0\ULearnTasks.pdb
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.sourcelink.json
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.dll
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\refint\ULearnTasks.dll
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.pdb
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ULearnTasks.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\!TMS\HT4_arrays\ULearnTasks\obj\Debug\net8.0\ref\ULearnTasks.dll
